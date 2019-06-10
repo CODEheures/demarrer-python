@@ -1,0 +1,2 @@
+pypiwin32
+scrapy==1.6
