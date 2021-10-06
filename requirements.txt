@@ -1,2 +1,2 @@
 pypiwin32
-scrapy==1.6
+scrapy==1.8.1
